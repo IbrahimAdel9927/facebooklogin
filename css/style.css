@@ -1,9 +1,11 @@
 html {
     height: 100%;
+    width: 100%;
 }
 
 body {
     height: 100%;
+    width: 100%;
     font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
 }
 
@@ -13,6 +15,7 @@ body {
     align-items: center;
     background-color: #f0f2f5;
     height: 100%;
+    width: 100%;
 }
 
 #width {
